@@ -1,6 +1,6 @@
 # psm
 
-Pypi Source Manager: fast switch between different Pypi Source: pypi, double, aliyun.
+Pypi Source Manager: fast switch between different Pypi Source: pypi, douban, aliyun.
 
 
 This package is inspired by [Pana/nrm](https://github.com/Pana/nrm).
